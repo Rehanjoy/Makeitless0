@@ -33,7 +33,7 @@ export default function HeroCarousel() {
   };
 
   return (
-    <div className="w-full pt-10">
+    <div className="w-full pt-10 px-7">
       <Slider {...settings}>
         <div className="px-4">
           <img

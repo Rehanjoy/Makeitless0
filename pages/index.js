@@ -10,7 +10,9 @@ import Categories from "@/components/home/Categories";
 import Contact from "@/components/home/Contact";
 import NewsLetter from "@/components/home/NewLetter";
 import WhatOffers from "@/components/home/WhatOffers"
-
+import Bannermostselling from "@/components/Banner/Bannermostselling";
+import Bannerproducts from "@/components/Banner/Bannerproducts";
+import Bannernewarrival from "@/components/Banner/Bannernewarrival";
 export default function Home() {
   return (
 <>
@@ -23,10 +25,13 @@ export default function Home() {
 <HerroCarousel />
 <HerroCategory />
 <HeroTest1/>
+<Bannerproducts/>
+<Categories/>
+<Bannermostselling/>
 <LatestProduct/>
 <WhatOffers/>
+<Bannernewarrival/>
 <OurProducts/>
-<Categories/>
 <Contact/> 
 </Layout>
 </>

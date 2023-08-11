@@ -42,7 +42,7 @@ const Contact = () => {
                         type="text"
                         name="hs-firstname-contacts-1"
                         id="hs-firstname-contacts-1"
-                        className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500 dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400"
+                        className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500"
                         placeholder="First Name"
                       />
                     </div>
@@ -58,7 +58,7 @@ const Contact = () => {
                         type="text"
                         name="hs-lastname-contacts-1"
                         id="hs-lastname-contacts-1"
-                        className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500 dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400"
+                        className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500"
                         placeholder="Last Name"
                       />
                     </div>
@@ -74,7 +74,7 @@ const Contact = () => {
                       name="hs-email-contacts-1"
                       id="hs-email-contacts-1"
                       autoComplete="email"
-                      className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500 dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400"
+                      className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500"
                       placeholder="Email"
                     />
                   </div>
@@ -87,7 +87,7 @@ const Contact = () => {
                       type="text"
                       name="hs-phone-number-1"
                       id="hs-phone-number-1"
-                      className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500 dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400"
+                      className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500" 
                       placeholder="Phone Number"
                     />
                   </div>
@@ -100,7 +100,7 @@ const Contact = () => {
                       id="hs-about-contacts-1"
                       name="hs-about-contacts-1"
                       rows="4"
-                      className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500 dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400"
+                      className="py-3 px-4 block w-full border-gray-200 rounded-md text-sm focus:border-pink-500 focus:ring-pink-500"
                       placeholder="Your Message"
                     ></textarea>
                   </div>
